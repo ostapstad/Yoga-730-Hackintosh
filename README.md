@@ -5,9 +5,9 @@
 - [Lilu.kext](https://github.com/acidanthera/Lilu/releases/latest)
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html)
 
-# What is half working:
-- Active Pen works as mouse
-- Brightness control has a dead zone
+# To-do:
+- Fix active Pen acts as mouse
+- Fix brightness control dead zone
 
 # What is working:
 - Intel Graphic UHD620 inject 0xC0870000 to ig-platform-id, [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases/latest)
